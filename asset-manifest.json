@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.71e2cd3b.js",
+    "main.js": "/static/js/main.9c0d3a52.js",
     "zeta_markets.js": "/index.js",
     "static/js/src_bootstrap_tsx.6f15a4e7.chunk.js": "/static/js/src_bootstrap_tsx.6f15a4e7.chunk.js",
     "static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.040e3c64.chunk.js": "/static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.040e3c64.chunk.js",
@@ -17,7 +17,7 @@
     "static/js/vendors-node_modules_solana_web3_js_lib_index_browser_esm_js.11731e8f.chunk.js": "/static/js/vendors-node_modules_solana_web3_js_lib_index_browser_esm_js.11731e8f.chunk.js",
     "static/js/vendors-node_modules_react-router_esm_react-router_js.6168037d.chunk.js": "/static/js/vendors-node_modules_react-router_esm_react-router_js.6168037d.chunk.js",
     "static/css/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.f53ccea6.chunk.css": "/static/css/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.f53ccea6.chunk.css",
-    "static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.d9ab9721.chunk.js": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.d9ab9721.chunk.js",
+    "static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8593980f.chunk.js": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8593980f.chunk.js",
     "static/js/vendors-node_modules_react-redux_es_index_js.b6086330.chunk.js": "/static/js/vendors-node_modules_react-redux_es_index_js.b6086330.chunk.js",
     "static/js/vendors-node_modules_sentre_embeded-view_dist_index_js.a3b57969.chunk.js": "/static/js/vendors-node_modules_sentre_embeded-view_dist_index_js.a3b57969.chunk.js",
     "static/media/dark-bg-welcome.png": "/static/media/dark-bg-welcome.cfbd7a4df10674ca1e2b.png",
@@ -49,14 +49,14 @@
     "static/media/logo-farming.svg": "/static/media/logo-farming.67e9fc7c0b734294092a314752c44a79.svg",
     "static/media/logo-senswap.svg": "/static/media/logo-senswap.917aa3232007f70bd986dcd8ae640719.svg",
     "static/media/logo-assets.svg": "/static/media/logo-assets.d4e49d20fd8c88e751cb5f2e54f9fc1d.svg",
-    "index.html": "/index.html",
     "static/media/icon-solana.svg": "/static/media/icon-solana.0f29c7077d2fa64ecf8c70fb05cd9e86.svg",
     "static/media/icon-sentre.svg": "/static/media/icon-sentre.1aa4776f6a84fe8cdea1b2025dd823c5.svg",
     "static/media/slope.svg": "/static/media/slope.de08dadb3988dd770e2d0d58acf15a09.svg",
     "static/media/icon-telegram.svg": "/static/media/icon-telegram.2450489f40d03000fe65fc1c6f238d85.svg",
+    "index.html": "/index.html",
     "static.app.tsx": "/zeta_markets-asset-senhub.json",
     "static/media/README.md": "/static/media/README.e312c29290b35d18025b.md",
-    "main.71e2cd3b.js.map": "/static/js/main.71e2cd3b.js.map",
+    "main.9c0d3a52.js.map": "/static/js/main.9c0d3a52.js.map",
     "index.js.map": "/index.js.map",
     "src_bootstrap_tsx.6f15a4e7.chunk.js.map": "/static/js/src_bootstrap_tsx.6f15a4e7.chunk.js.map",
     "vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.040e3c64.chunk.js.map": "/static/js/vendors-node_modules_reduxjs_toolkit_dist_redux-toolkit_esm_js.040e3c64.chunk.js.map",
@@ -72,11 +72,11 @@
     "vendors-node_modules_solana_web3_js_lib_index_browser_esm_js.11731e8f.chunk.js.map": "/static/js/vendors-node_modules_solana_web3_js_lib_index_browser_esm_js.11731e8f.chunk.js.map",
     "vendors-node_modules_react-router_esm_react-router_js.6168037d.chunk.js.map": "/static/js/vendors-node_modules_react-router_esm_react-router_js.6168037d.chunk.js.map",
     "vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.f53ccea6.chunk.css.map": "/static/css/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.f53ccea6.chunk.css.map",
-    "vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.d9ab9721.chunk.js.map": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.d9ab9721.chunk.js.map",
+    "vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8593980f.chunk.js.map": "/static/js/vendors-node_modules_sentre_senhub_dist_index_js-node_modules_sentre_senhub_dist_static_image-97b140.8593980f.chunk.js.map",
     "vendors-node_modules_react-redux_es_index_js.b6086330.chunk.js.map": "/static/js/vendors-node_modules_react-redux_es_index_js.b6086330.chunk.js.map",
     "vendors-node_modules_sentre_embeded-view_dist_index_js.a3b57969.chunk.js.map": "/static/js/vendors-node_modules_sentre_embeded-view_dist_index_js.a3b57969.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.71e2cd3b.js"
+    "static/js/main.9c0d3a52.js"
   ]
 }
