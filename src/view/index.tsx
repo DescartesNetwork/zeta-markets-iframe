@@ -1,4 +1,4 @@
-import { net, Net, useUI } from '@sentre/senhub'
+import { useSetBackground } from '@sentre/senhub'
 
 import EmbededView from '@sentre/embeded-view'
 
@@ -7,16 +7,11 @@ import { useEffect } from 'react'
 
 const {
   manifest: { appId },
+  sol: { node },
 } = configs
 
-const SOURCES: Record<Net, string> = {
-  devnet: 'https://devnet.zeta.markets/',
-  testnet: '',
-  mainnet: 'https://mainnet.zeta.markets/',
-}
-
 const View = () => {
-  const { setBackground } = useUI()
+  const setBackground = useSetBackground()
 
   useEffect(() => {
     setBackground({ light: '#141626', dark: '#141626' })
@@ -25,7 +20,7 @@ const View = () => {
   return (
     <EmbededView
       appId={appId}
-      src={SOURCES[net]}
+      src={node}
       title="The world's first options and futures DEX."
       wallet={window.sentre.wallet}
     />

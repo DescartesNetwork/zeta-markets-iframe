@@ -12,21 +12,21 @@ const conf: Record<Net, Conf> = {
    * Development configurations
    */
   devnet: {
-    node: 'https://api.devnet.solana.com',
+    node: 'https://devnet.zeta.markets/',
   },
 
   /**
    * Staging configurations
    */
   testnet: {
-    node: 'https://api.testnet.solana.com',
+    node: '',
   },
 
   /**
    * Production configurations
    */
   mainnet: {
-    node: 'https://api.mainnet-beta.solana.com',
+    node: 'https://mainnet.zeta.markets/',
   },
 }
 
